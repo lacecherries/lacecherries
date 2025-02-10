@@ -1,3 +1,9 @@
+<p align="left">
+$\color{#f9c3f0}{\textsf{i loved you before i was born}}$
+<p align="right">
+$\color{#ed5a99}{\textsf{the longing will outlive this body.}}$
+</p>
+
 <p align ="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dd2w0ap-0bc310d5-bacd-4355-95cd-76d7439cb656.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGQydzBhcC0wYmMzMTBkNS1iYWNkLTQzNTUtOTVjZC03NmQ3NDM5Y2I2NTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1K_G6IOvy0C-Gvg2wHnknHu2A6c2aPz_VcDRxmfEy4Q"/>
 <p align="center">
@@ -9,9 +15,4 @@
 <p align="center">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db9wv7x-441eb595-dd94-4fc7-9547-f993843d2de8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI5d3Y3eC00NDFlYjU5NS1kZDk0LTRmYzctOTU0Ny1mOTkzODQzZDJkZTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1dJ5QzulR2nhVPsrj1_EvMr7w2bXxLP0J_FiQ4BeIWo"/>
 <p align="center">
-</p>
-<p align="left">
-$\color{#f9c3f0}{\textsf{i loved you before i was born}}$
-<p align="right">
-$\color{#ed5a99}{\textsf{the longing will outlive this body.}}$
   </p>
