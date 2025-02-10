@@ -11,5 +11,5 @@
 <p align="center">
 </p>
 <p align="center">
-$\color{#f9c3f0}{\textsf{the longing will outlive this body}}$
+$\color{#f9c3f0}{\textsf{the longing will outlive this body.}}$
   </p>
