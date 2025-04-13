@@ -3,7 +3,6 @@
 </p>
  
 <p align="center"> 
- 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3qfhn9ib6qcajvdzjbyuzfcra&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=942445&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 <a href="https://imgur.com/onONGCY"><img src="https://i.imgur.com/onONGCY.jpg" title="source: imgur.com" />
 </p>
