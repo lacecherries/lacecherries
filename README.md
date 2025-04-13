@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <p align="left">
-$\color{#f9c3f0}{\textsf{i loved you before i was born}}$
+$\color{#dbb1a1}{\textsf{i loved you before i was born}}$
 <p align="right">
 $\color{#ed5a99}{\textsf{the longing will outlive this body.}}$
   </p>
