@@ -11,5 +11,5 @@
 <p align="left">
 $\color{#dbb1a1}{\textsf{i loved you before i was born}}$
 <p align="right">
-$\color{#ed5a99}{\textsf{the longing will outlive this body.}}$
+$\color{#c17c70}{\textsf{the longing will outlive this body.}}$
   </p>
