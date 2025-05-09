@@ -3,7 +3,7 @@
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3qfhn9ib6qcajvdzjbyuzfcra&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
-<a href="https://imgur.com/YOAZH6J"><img src="https://i.imgur.com/vo8Rf90.gif" title="source: imgur.com" /></a>
+<a <img src="https://imgur.com/YOAZH6J"> /></a>
 <p align="center">
 <a href="https://imgur.com/GAOegLe"><img src="https://i.imgur.com/GAOegLe.png" title="source: imgur.com" style="width:300px;height:300px; /></a  
 </p>
