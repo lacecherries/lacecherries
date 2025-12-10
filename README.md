@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <p align="left">
-i loved you before i was born,
+
 <p align="right">
-the longing will outlive this body.
+<img width="415" height="58" alt="Image" src="https://github.com/user-attachments/assets/4d2a1647-cf6a-47dd-89c1-b137bbdd9b25" />
   </p>
