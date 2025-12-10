@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://i.imgur.com/YOAZH6J.png"/></a
 <p align="center">
-<a href="https://imgur.com/GAOegLe"><img src="https://i.imgur.com/GAOegLe.png" title="source: imgur.com" style="width:300px;height:300px; /></a  
+<img width="437" height="571" alt="Image" src="https://github.com/user-attachments/assets/0a433958-2420-4f4d-b59a-6179aa7e14e0" 
 </p>
 <p align="center">
 <p align="left">
